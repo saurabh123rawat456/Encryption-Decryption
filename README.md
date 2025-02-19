@@ -1,20 +1,26 @@
 Encryption-Decryption 🛡️🔒
+
 Secure Data Hiding in Images Using Steganography
 
 📌 Overview
+
 This project implements image steganography using encryption and decryption techniques. It enables secure data hiding within images using OpenCV.
 
 🚀 Features
+
 ✅ Encrypt messages inside images 📷
 ✅ Decrypt hidden messages from images 🔍
 ✅ Uses OpenCV for image processing 🖼️
 ✅ Simple and efficient Python implementation
 
 🛠️ Technologies Used
+
 Python 🐍
 OpenCV 🖼️
 NumPy 🔢
+
 🔧 Installation
+
 1️⃣ Clone this repository:
 
 sh
