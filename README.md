@@ -30,17 +30,25 @@ This project implements **secure data hiding in images** using **steganography**
 4️⃣ Display the **hidden message**.  
 
 ## 📂 Project Structure  
+
 📦 Encryption-Decryption
+
 ┣ 📜 encryption.py # Encrypts text into an image
+
 ┣ 📜 decryption.py # Extracts hidden text from an image
+
 ┣ 🖼️ encryptedImage.png # Example encrypted image
+
 ┣ 📜 README.md # Project Documentation
+
 ┣ 📜 stegno.pptx # Presentation on steganography
 
 **##📢 Contributing**
+
 Want to improve this project? Feel free to fork, create a pull request, or open an issue.
 
 **##📷 Example Output**
+
 🔒 Before Encryption:
 
 🔓 After Encryption (Data Hidden Inside)
