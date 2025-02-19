@@ -37,10 +37,10 @@ This project implements **secure data hiding in images** using **steganography**
 ┣ 📜 README.md # Project Documentation
 ┣ 📜 stegno.pptx # Presentation on steganography
 
-##📢 Contributing
+**##📢 Contributing**
 Want to improve this project? Feel free to fork, create a pull request, or open an issue.
 
-##📷 Example Output
+**##📷 Example Output**
 🔒 Before Encryption:
 
 🔓 After Encryption (Data Hidden Inside)
